@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Anmol Gupta from India<br>🔭 I’m currently working on Booking-app web application.<br>🌱 I’m currently learning React.js.<br>📫To reach me : anmolgupta682@gmail.com</p>
+<p align="left">I'm Anmol Gupta  <br>🔭 I’m currently working on Booking-app web application.<br>🌱 I’m currently learning React.js.<br>📫To reach me : anmolgupta682@gmail.com</p>
 
 ###
 
